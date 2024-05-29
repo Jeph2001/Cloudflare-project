@@ -1,6 +1,6 @@
 // GET requests to return "Hello, world!"
 export const onRequestGet = () => {
-    return new Response("Hello, world!")
+    return new Response("Hello, world! This is Joseph am learning what the Cloudflare is.")
   }
 
 
